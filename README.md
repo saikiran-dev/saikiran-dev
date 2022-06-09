@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sai Kiran
 - 👀 I’m interested in building applications.
 - 🌱 Learning many things including Block Chain, Solidity, MERN and mobile applications.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 You can reach out to me through email.
